@@ -51,4 +51,5 @@ int main(){
     	for(auto i=OutputArray.begin();i!=OutputArray.end();++i)
         	printf("%d\n",*i);
     }
+    return 0;
 }
